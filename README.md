@@ -116,17 +116,16 @@ Through these projects, the following skills were applied:
 ```text
 OIBSIP/
 │
-├── README.md
-│
-├── Task_1_Retail_Sales_EDA/
-│   ├── Retail_Sales_EDA.ipynb
-│   ├── Retail_Sales.csv
+├── Task1-OIBSIP/
+│   ├── EDA_Retail_Sales.ipynb
+│   ├── README.md
+│   └── Retail_Sales-selected-columns.csv
+├── Task2-OIBSIP/
+│   ├── Customer_Segmentation_Analysis.ipynb
+│   ├── OnlineRetail.xlsx
 │   └── README.md
 │
-└── Task_2_Customer_Segmentation/
-    ├── Customer_Segmentation_Analysis.ipynb
-    ├── Online Retail.xlsx
-    └── README.md
+└── README.md
 ````
 
 ---
