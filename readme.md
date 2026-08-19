@@ -1,6 +1,4 @@
-Here is a professional **main `README.md` for your `OIBSIP` repository**. This README gives an overview of the internship and links the two completed projects.
 
-````markdown
 # 📊 Oasis Infobyte Data Analytics Internship
 
 This repository contains the projects completed as part of the **Data Analytics Internship at Oasis Infobyte**.
