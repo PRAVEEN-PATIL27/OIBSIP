@@ -162,20 +162,3 @@ Together, these projects demonstrate practical skills in **data analysis, visual
 **Oasis Infobyte**
 
 ````
-
-### Recommended repository structure
-
-Create the repository as:
-
-**`OIBSIP`**
-
-Then upload:
-
-```text
-OIBSIP
- ├── README.md
- ├── Task_1_Retail_Sales_EDA
- └── Task_2_Customer_Segmentation
-````
-
-This will look clean and professional on your GitHub profile.
